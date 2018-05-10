@@ -57,8 +57,6 @@ function destructivelyRemoveElementFromBeginningOfArray(array){
    }
    
    
-   function remove
-   
    
   
   
