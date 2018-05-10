@@ -51,13 +51,13 @@ function destructivelyRemoveElementFromBeginningOfArray(array){
   return array;
    }
    
-   function removeElementFromEndOfArray(){
+   function removeElementFromEndOfArray(array){
      array1 = array.slice(0, array.length-1);
      return array1;
    }
    
    
-   
+   function remove
    
    
   
