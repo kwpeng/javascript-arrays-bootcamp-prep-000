@@ -46,7 +46,7 @@ function destructivelyRemoveElementFromBeginningOfArray(array){
   console.log(removeElementFromBeginningOfArray([1,2,3,4]));
   
   
-  
+  destructivelyRemoveElementFromEndOfArray
   
   
   
